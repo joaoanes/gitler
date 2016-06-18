@@ -1,0 +1,24 @@
+{
+  "name": "gitler",
+  "version": "0.0.1",
+  "description": "No description!",
+  "main": "slackbutton_bot.js",
+  "dependencies": {
+    "botkit": "^0.2.1",
+    "underscore": "^1.8.3",
+    "jslint": "^0.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joaoanes/gitler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaoanes/gitler/issues"
+  },
+  "homepage": "https://github.com/joaoanes/gitler#readme"
+}
